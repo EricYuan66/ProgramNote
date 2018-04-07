@@ -15,4 +15,5 @@
     git push -u origin master
 #### 4.2 以后每次本地提交后如果需要推送到远程github上
     git push origin master //推送master分支
-### 5 用VSCode打开刚才建立的文件夹，在源代码管理模块中可以查看到
+### 5 用VSCode打开刚才建立的文件夹，在源代码管理模块中可以查看到git操作界面
+![vscode源代码管理器界面](/源代码管理器界面.PNG)
